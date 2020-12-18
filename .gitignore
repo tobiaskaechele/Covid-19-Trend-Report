@@ -1,3 +1,9 @@
+# Project settings
+data/
+output/
+tmp/
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
