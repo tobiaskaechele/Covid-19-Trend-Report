@@ -17,7 +17,7 @@ https://tobiaskaechele.de/blog/Covid-19-Trend-Report
 
 ## How to Use
 
-1. Git clone or just download the Jupyter Notebook
+1. Clone git repository or just download the Jupyter Notebook
 
 2. Install the packages Matplotlib, pandas, SciPy, NumPy, and tqdm:
 
