@@ -24,5 +24,5 @@ https://tobiaskaechele.de/blog/Trend-Analysis-of-New-COVID-19-Cases
 
 3. Run all cells in the Jupyter Notebook. The newest data from John Hopkins will be downloaded automatically.
 
-4. Find the trend report in the output directory:<br>
+4. The generated trend report can be found in the output directory:<br>
    `./output/report.htm`
